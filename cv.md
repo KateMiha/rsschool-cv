@@ -15,11 +15,11 @@
  * JQuery
  
 ### My last code: 
-* https://github.com/KateMiha/cod/blob/master/cod.html
+ * https://github.com/KateMiha/cod/blob/master/cod.html
 ### Experience: 
-* e-miha.site, https://github.com/KateMiha/KateMiha-portfolio/blob/master/index.php
+ * e-miha.site, https://github.com/KateMiha/KateMiha-portfolio/blob/master/index.php
 ### Education: 
  * HTML Academy - HTML base course
  * Unfinished higher - St. Petersburg University of Telecommunications named after Prof. Bonch-Bruevich
 ### English: 
-* A2, language practice of communication in foreign countries, reading books and documentation.
+ * A2, language practice of communication in foreign countries, reading books and documentation.
