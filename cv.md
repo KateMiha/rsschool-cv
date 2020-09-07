@@ -1,5 +1,5 @@
-#My portfolio
-##Personal data
+#My portfolio#
+##Personal data##
 ####Ekaterina Mikhailovskaia
 ##My contact
 ####Email: lesa182010@gmail.com
@@ -13,6 +13,7 @@
  * anime.js
  * Bootstrap
  * JQuery
+ 
 ##My last code: 
 ####https://github.com/KateMiha/cod/blob/master/cod.html
 ##Experience: 
